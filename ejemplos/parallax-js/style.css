@@ -1,0 +1,12 @@
+html, body { padding: 0; margin: 0; height: 100%; }
+      body { font: 1em/1.5 "Lato", sans-serif; font-size: 1.3em; }
+      header { height: 100vh; position: relative; overflow: hidden; background: url("../../assets/composicion-1.svg") center no-repeat; background-size: cover; }
+      header .content { position: absolute; top: 0; left: 0; right: 0; bottom: 0; z-index: 1; }
+      header hgroup { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: #fff; border: 5px solid #fff; padding: 0.5em 3em; background-color: rgba(0, 0, 0, 0.2); z-index: 2; }
+      .overlay { position: absolute; top: 0; right: 0; left: 0; bottom: 0; background:#333 center no-repeat; background-size: cover; z-index: 0; opacity: 0; filter: blur(4px); }
+      .site { padding: 10em 0; text-align: center; font-size: 0.8em; color: #444; position: relative; }
+      .site nav { position: absolute; top: 0; left: 0; background: #222; width: 100%; }
+      .site nav a { padding: 10px 30px; font-size: 1.3em; display: inline-block; color: #666; text-decoration: none; }
+      .site nav a:hover { background: #333; color: #fff; }
+      blockquote img { margin-right: 20px; float: left; }
+      blockquote { text-align: left; font-style: italic; }

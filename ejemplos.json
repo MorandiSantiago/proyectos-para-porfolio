@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "hover",
+    "title": "Efectos sobre imágenes",
+    "description": "Compará superposiciones, texto y transiciones al pasar el puntero o enfocar las tarjetas."
+  },
+  {
+    "slug": "filtros",
+    "title": "Filtros y perspectiva",
+    "description": "Filtros sepia, escala de grises y una transformación con perspectiva."
+  },
+  {
+    "slug": "texto",
+    "title": "Animación de texto",
+    "description": "Secuencia de mensajes con keyframes. Recargá la vista para reiniciar."
+  },
+  {
+    "slug": "parallax-js",
+    "title": "Parallax con JavaScript",
+    "description": "Desplazá la vista del ejemplo para observar la transformación de la cabecera."
+  },
+  {
+    "slug": "parallax-css",
+    "title": "Parallax con CSS",
+    "description": "Desplazá las secciones para observar las capas con distintas profundidades."
+  },
+  {
+    "slug": "wave",
+    "title": "Efecto de onda",
+    "description": "Pasá el puntero por las columnas o usá Tab para seleccionar una."
+  },
+  {
+    "slug": "tarjetas-3d",
+    "title": "Tarjetas con profundidad",
+    "description": "Superposición de portada, título y figura con perspectiva."
+  },
+  {
+    "slug": "imagen",
+    "title": "Imagen por franjas",
+    "description": "Pasá el puntero por las franjas para revelar otra composición."
+  },
+  {
+    "slug": "social",
+    "title": "Botones circulares",
+    "description": "Botones de demostración con giro y transición de color; no abren cuentas externas."
+  },
+  {
+    "slug": "navegacion",
+    "title": "Efectos de navegación",
+    "description": "Variantes de subrayado y marcadores que siguen al puntero. Son controles visuales de práctica."
+  },
+  {
+    "slug": "lamparas",
+    "title": "Tarjetas de productos",
+    "description": "Variante del ejercicio de profundidad recuperada del portfolio. No realiza compras."
+  }
+]

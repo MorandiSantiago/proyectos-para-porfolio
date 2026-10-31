@@ -1,0 +1,5 @@
+/* Apoyo común; cada práctica conserva sus efectos originales. */
+*{box-sizing:border-box}img{max-width:100%}a:focus-visible,button:focus-visible,[tabindex]:focus-visible{outline:3px solid #f6b53c;outline-offset:4px}
+.volver-laboratorio{position:fixed!important;left:8px!important;bottom:8px!important;z-index:9999!important;background:#fff!important;color:#17364d!important;font:14px/1.5 system-ui!important;padding:6px 10px!important;text-decoration:underline!important;border-radius:4px!important;width:auto!important;height:auto!important}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;scroll-behavior:auto!important}}
+@media(max-width:600px){body{overflow-x:hidden}.card{max-width:90vw}ul{padding-left:0}.sp-container h2{font-size:32px}.items{max-width:95vw}.wrap_nav{max-width:100vw}}
